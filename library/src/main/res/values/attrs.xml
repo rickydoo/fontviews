@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fontAssets" format="string"/>
+
+    <declare-styleable name="FontAutoCompleteTextView">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontButton">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontCheckBox">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontCheckedTextView">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontEditText">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontRadioButton">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontSwitch">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontTextView">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+    <declare-styleable name="FontToggleButton">
+        <attr name="fontAssets"/>
+    </declare-styleable>
+</resources>
